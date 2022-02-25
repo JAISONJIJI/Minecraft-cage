@@ -178,3 +178,4 @@ blocks.place(BEDROCK, pos(-0,3,6))
 blocks.place(BEDROCK, pos(-0,2,6))
 blocks.place(BEDROCK, pos(-0,1,6))
 blocks.place(BEDROCK, pos(-0,0,6))
+player.say("done placing bedrock");
